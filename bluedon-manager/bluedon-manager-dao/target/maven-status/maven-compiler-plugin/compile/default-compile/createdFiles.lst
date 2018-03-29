@@ -1,0 +1,12 @@
+com\bluedon\mapper\TbOrderMapper.class
+com\bluedon\mapper\TbItemCatMapper.class
+com\bluedon\mapper\TbContentCategoryMapper.class
+com\bluedon\mapper\TbItemMapper.class
+com\bluedon\mapper\TbItemParamItemMapper.class
+com\bluedon\mapper\TbItemParamMapper.class
+com\bluedon\mapper\TbOrderItemMapper.class
+com\bluedon\mapper\TestMapper.class
+com\bluedon\mapper\TbContentMapper.class
+com\bluedon\mapper\TbOrderShippingMapper.class
+com\bluedon\mapper\TbUserMapper.class
+com\bluedon\mapper\TbItemDescMapper.class

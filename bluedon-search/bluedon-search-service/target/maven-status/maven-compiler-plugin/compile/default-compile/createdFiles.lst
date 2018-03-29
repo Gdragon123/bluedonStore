@@ -1,0 +1,5 @@
+com\bluedon\search\dao\impl\SearchItemDaoImpl.class
+com\bluedon\search\mapper\SearchItemMapper.class
+com\bluedon\search\dao\SearchItemDao.class
+com\bluedon\search\service\impl\SearchItemsServiceImpl.class
+com\bluedon\search\activemq\SearchItemMessageListener.class

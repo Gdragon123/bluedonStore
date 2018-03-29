@@ -1,0 +1,4 @@
+com\bluedon\activemq\GenHTMLItemChangeListener.class
+com\bluedon\controller\ItemController.class
+com\bluedon\controller\GenHTMLTestController.class
+com\bluedon\dao\Item.class
